@@ -6,6 +6,8 @@
 Welcome to docs-tut's documentation Yada-yada!
 ====================================
 
+I'm a crazy person
+
 Contents:
 
 .. toctree::
