@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to docs-tut's documentation Yada-yada!
+Welcome to docs-tut's documentation Yada-yada-yada!
 ====================================
 
-I'm a crazy person
+I'm a crazy person!!
 
 Contents:
 
